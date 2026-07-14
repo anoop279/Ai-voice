@@ -1,5 +1,5 @@
 # Ai-voice
-This is my first git repository
+This is my first git repository on AI voice chat 
 <br>
 Author :Anoop Kumar
 <br>
